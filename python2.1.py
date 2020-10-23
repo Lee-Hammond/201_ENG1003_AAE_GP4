@@ -47,8 +47,8 @@ class AStarPlanner:
         self.tc_y = tc_y
 
         ############you could modify the setup here for different aircraft models (based on the lecture slide) ##########################
-        self.C_F = 10
-        self.C_T = 16
+        self.C_F = 20
+        self.C_T = 20
         self.C_C = 10
         self.Delta_F = 5
         self.Delta_T = 5
