@@ -1,0 +1,3 @@
+Task 2.1 and Task 2.2 answer
+Task 2.1 lowest cost would be 20 and 20 combine.
+Task 2.2 lowest cost would be 2(8+9)+8(2+1)=58.
