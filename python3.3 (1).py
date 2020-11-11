@@ -327,7 +327,7 @@ def main():
         oy.append(40)
     for i in range(-9, 19):
         ox.append(i)
-        oy.append(19-i)    
+        oy.append(19-i)
 
     
     # set fuel consuming area
